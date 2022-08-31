@@ -1,6 +1,6 @@
 # taxi-service
 
-This project provide simple example how to create Web Application using  **Java EE Servlets**, **JSP**, and **JSTL** and **JDBC** as A relational database.
+This project provide simple example how to create Web Application using  **Java EE Servlets**, **JSP**, **JSTL**, **JDBC** and **MySQL** as relational database.
 The base functionality provided by this application allow use application as base for more advanced application.
 
 ### Description of the project functionality
@@ -18,10 +18,11 @@ Link for live testing <a href="http://examples.mooo.com/taxi-service/login">Live
 ### Tchnologies
  - Apache Tomcat | 9.0.65
  - Java EE 11
+ - MySQL 8.0.30
  - Maven
- - Java Database Connectivity (JDBC) 
- - JavaServer Pages (JSP)
- - JavaServer Pages Standard Tag Library (JSTL)
+ - JDBC
+ - JSP
+ - JSTL
  - Servlet WebFilter
 
 ### Database architecture
