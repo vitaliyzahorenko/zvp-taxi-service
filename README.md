@@ -18,7 +18,7 @@ Link for live testing <a href="http://examples.mooo.com/taxi-service/login">Live
 ### Tchnologies
  - Apache Tomcat | 9.0.65
  - Java EE 11
- - MySQL 8.0.30
+ - MySQL
  - Maven
  - JDBC
  - JSP
